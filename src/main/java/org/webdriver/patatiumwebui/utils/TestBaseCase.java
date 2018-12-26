@@ -77,16 +77,16 @@ public class TestBaseCase {
 				//设置默认下载路径
 				firefoxProfile.setPreference("browser.download.folderList", 2);
 				firefoxProfile.setPreference("browser.download.dir", "D:\\自动化测试下载文件");
-				//加载firebug插件
-				firefoxProfile.setPreference("extensions.firebug.currentVersion", "2.0.13");
-				firefoxProfile.setPreference("extensions.firebug.allPagesActivation", "none");
-				//加载firepath插件
-				firefoxProfile.setPreference("extensions.firepath.currentVersion", "0.9.7.1.1");
-				firefoxProfile.setPreference("extensions.firepath.allPagesActivation", "on");
+//				//加载firebug插件
+//				firefoxProfile.setPreference("extensions.firebug.currentVersion", "2.0.13");
+//				firefoxProfile.setPreference("extensions.firebug.allPagesActivation", "none");
+//				//加载firepath插件
+//				firefoxProfile.setPreference("extensions.firepath.currentVersion", "0.9.7.1.1");
+//				firefoxProfile.setPreference("extensions.firepath.allPagesActivation", "on");
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
 			case "ChormeDriver":
-				System.setProperty("webdriver.chrome.driver", "resource\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", "C:\\Users\\WIN7\\AppData\\Local\\Google\\Chrome\\Application\\chromedriver.exe");
 				this.driver=new ChromeDriver();
 				break;
 			case "InternetExplorerDriver":
@@ -132,11 +132,11 @@ public class TestBaseCase {
 				driver= new RemoteWebDriver(new URL(nodeURL), capabilities);
 				break;
 			case "ChormeDriver":
-				System.setProperty("webdriver.chrome.driver", "E:\\autotest\\autotmaiton\\resource\\chromedriver.exe");
+				System.setProperty("webdriver.chrome.driver", "C:\\Users\\WIN7\\AppData\\Local\\Google\\Chrome\\Application\\chromedriver.exe");
 				//driver=new ChromeDriver();
 				DesiredCapabilities dcchorme=DesiredCapabilities.chrome();
 				dcchorme.setBrowserName("chrome");
-				dcchorme.setVersion("46.0.2490.86 m");
+				dcchorme.setVersion("70.0.3538.110");
 				dcchorme.setPlatform(Platform.WINDOWS);
 				driver=new RemoteWebDriver(new URL(nodeURL), dcchorme);
 				break;

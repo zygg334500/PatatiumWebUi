@@ -30,10 +30,10 @@ public class LoginTest extends TestBaseCase {
 	public void login(String BaseUrl) throws IOException
 	{
 		//调用登录方法，输入正确的用户名和密码
-		LoginAction loginAction=new LoginAction(BaseUrl+"/new/login.aspx","111111","abc123");
+		LoginAction loginAction=new LoginAction(BaseUrl+"/admin-center/#/login","陈子洋","Czy123456");
 		action.sleep(2);
 		//设置检查点
-		Assertion.VerityTextPresentPrecision("jd_845622","输入正确的用户名和密码，验证是否成功进入主页");
+		Assertion.VerityTextPresentPrecision("陈子洋","输入正确的用户名和密码，验证是否成功进入主页");
 		//设置用例断言，判断用例是否失败
 		Assertion.VerityError();
 	}
@@ -51,7 +51,7 @@ public class LoginTest extends TestBaseCase {
 		//代替testng参数化的方法
 		String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");
 		//调用登录方法
-		LoginAction loginAction=new LoginAction(BaseUrl+"/new/login.aspx",userName,password);
+		LoginAction loginAction=new LoginAction(BaseUrl+"/admin-center/#/login",userName,password);
 		action.sleep(1);
 		//设置检查点
 		Assertion.VerityTextPresent(message,"验证是否出现预期的错误提示信息:"+message);

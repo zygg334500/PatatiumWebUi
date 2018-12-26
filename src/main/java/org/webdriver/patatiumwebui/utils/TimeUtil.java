@@ -15,24 +15,24 @@ public class TimeUtil extends TestBaseCase {
      * 时间控件不可编辑处理
      * @param inputName
      * @param time
-     * @param timeFormat
-     */
-    public void timeWidgetMange(String inputName,String time,String timeFormat)
-    {
-        String date=formatDate(time, timeFormat);
-        String js="$(function(){$(\"input[name='"
-                + inputName
-                +"']\""
-                + ").removeAttr('readonly');"
-                + "$(\"input[name='"
-                + inputName
-                +"']\""
-                + ").val(\""
-                + date
-                + "\");"
-                + "})";
-        ((JavascriptExecutor) driver).executeScript(js);
-        System.out.println(js);
+            * @param timeFormat
+            */
+        public void timeWidgetMange(String inputName,String time,String timeFormat)
+        {
+            String date=formatDate(time, timeFormat);
+            String js="$(function(){$(\"input[name='"
+                    + inputName
+                    +"']\""
+                    + ").removeAttr('readonly');"
+                    + "$(\"input[name='"
+                    + inputName
+                    +"']\""
+                    + ").val(\""
+                    + date
+                    + "\");"
+                    + "})";
+            ((JavascriptExecutor) driver).executeScript(js);
+            System.out.println(js);
     }
     /**
      * 按指定格式格式化时间

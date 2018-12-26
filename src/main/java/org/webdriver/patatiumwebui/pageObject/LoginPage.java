@@ -10,7 +10,7 @@ private String path="src/main/java/org/webdriver/patatiumwebui/pageObjectConfig/
  public   LoginPage() {
 //工程内读取对象库文件
 	setXmlObjectPath(path);
-getLocatorMap();
+	getLocatorMap();
 }
 /***
 * 用户名
@@ -23,25 +23,25 @@ public Locator 用户名输入框() throws IOException
    return locator;
  }
 
-/***
-* 密码
-* @return
-* @throws IOException
-*/
-public Locator 密码输入框() throws IOException
- {
-   Locator locator=getLocator("密码输入框");
-   return locator;
- }
+    /***
+     * 密码
+     * @return
+     * @throws IOException
+     */
+    public Locator 密码输入框() throws IOException
+    {
+        Locator locator=getLocator("密码输入框");
+        return locator;
+    }
 
-/***
-* 登录
-* @return
-* @throws IOException
-*/
-public Locator 登录按钮() throws IOException
- {
-   Locator locator=getLocator("登录按钮");
-   return locator;
- }
+    /***
+     * 登录
+     * @return
+     * @throws IOException
+     */
+    public Locator 登录按钮() throws IOException
+    {
+        Locator locator=getLocator("登录按钮");
+        return locator;
+    }
 }

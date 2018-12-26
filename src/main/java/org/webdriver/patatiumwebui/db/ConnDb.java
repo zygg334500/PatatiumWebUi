@@ -9,10 +9,10 @@ public class ConnDb {
 	public  Connection getConn(String DataBaseName)
 	{
 		String driver = "com.mysql.jdbc.Driver";
-		String url = "jdbc:mysql://192.168.0.227:3306/"
+		String url = "jdbc:mysql://127.0.0.1:3306/"
 				+DataBaseName ;
-		String username = "hk";
-		String password = "hk@test";
+		String username = "root";
+		String password = "root";
 		Connection conn = null;
 		try {
 			Class.forName(driver); //classLoader,加载对应驱动
@@ -28,9 +28,9 @@ public class ConnDb {
 	public static void main(String[] args)
 	{
 		ConnDb connDb=new ConnDb();
-		Connection connection=connDb.getConn("HISAPPOINTMENT");
-		String sql="SELECT HospitalName  FROM Hospital.Hospital S WHERE S.ProvinceId='19' AND S.CityId='2157'";
-		ArrayList<String> hospitaList=new ArrayList<String>();
+		Connection connection=connDb.getConn("mysql");
+		String sql="SELECT * FROM students WHERE Sex= 1";
+		ArrayList<String> name=new ArrayList<String>();
 		PreparedStatement preparedStatement;
 		try {
 			preparedStatement = (PreparedStatement)connection.prepareStatement(sql);
@@ -41,7 +41,7 @@ public class ConnDb {
 
 				String h=rs.getString(1);
 				//System.out.println(row);
-				hospitaList.add(h);
+				name.add(h);
 				System.out.println(h);
 
 

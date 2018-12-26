@@ -55,7 +55,7 @@ public class ElementAction extends TestBaseCase{
 			webElements=(new WebDriverWait(driver, 20)).until(
 					new ExpectedCondition<List<WebElement>>() {
 
-						@Override
+						//@Override
 						public List<WebElement> apply(WebDriver driver) {
 							// TODO 自动生成的方法存根
 							List<WebElement> element=null;
@@ -210,7 +210,7 @@ public class ElementAction extends TestBaseCase{
 			webElement=(new WebDriverWait(driver, 20)).until(
 					new ExpectedCondition<WebElement>() {
 
-						@Override
+						//@Override
 						public WebElement apply(WebDriver driver) {
 							// TODO 自动生成的方法存根
 							WebElement element=null;
@@ -586,7 +586,6 @@ public class ElementAction extends TestBaseCase{
 	/**
 	 * 获取下拉列表的value属性值
 	 * @param selectLocator 下拉列表 select标签定位信息
-	 * @param optinValue 下拉列表文本值
 	 * @return 返回String
 	 */
 	public String  getSelectOptionValue(Locator selectLocator,String optinText)
@@ -711,7 +710,7 @@ public class ElementAction extends TestBaseCase{
 		} catch (Exception e) {
 			// TODO: handle exception
 			log.error("清除input值失败:"+locator.getLocalorName()+"["+"By."+locator.getBy()+":"+locator.getElement()+"]");
-			throw e;
+			//throw e;
 
 		}
 
@@ -744,7 +743,6 @@ public class ElementAction extends TestBaseCase{
 	}
 	/**
 	 * 隐式等待
-	 * @param  driver 浏览器driver
 	 * @param  t  最大等待时间，秒为单位
 	 **/
 	public void Waitformax(int t)

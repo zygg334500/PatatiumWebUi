@@ -25,7 +25,7 @@ public class SendMail {
 	 *
 	 * @param userName  发送邮箱账号  xxx@xxx.com形式
 	 * @param passWord  发送邮件密码
-	 * @param smtpHost  stmp服务器地址
+	 * @param smtpHost  smtp服务器地址
 	 * @param smtpPort  smtp服务器端口
 	 * @param from      发件人地址
 	 * @param tos       收件人地址
