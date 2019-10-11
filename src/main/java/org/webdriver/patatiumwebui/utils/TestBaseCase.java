@@ -1,5 +1,5 @@
 package org.webdriver.patatiumwebui.utils;
-import org.webdriver.patatiumwebui.utils.Log;
+
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -9,13 +9,12 @@ import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
+import org.testng.annotations.AfterTest;
+import org.testng.annotations.BeforeTest;
+import org.testng.annotations.Parameters;
 
 import java.net.MalformedURLException;
 import java.net.URL;
-
-import org.testng.annotations.Parameters;
-import org.testng.annotations.BeforeTest;
-import org.testng.annotations.AfterTest;
 
 public class TestBaseCase {
 	public static WebDriver driver;
