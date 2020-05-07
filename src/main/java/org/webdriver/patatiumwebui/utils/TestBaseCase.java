@@ -24,7 +24,7 @@ public class TestBaseCase {
 	public Log log=new Log(this.getClass().getSuperclass());
 	@BeforeTest
 	@Parameters({"driver","nodeURL"})
-	public void  setup( String driver,String nodeURL) throws MalformedURLException {
+	public void  setup( int driver,String nodeURL) throws MalformedURLException {
 		log.info("------------------开始执行测试---------------");
 		if(nodeURL.equals("")||nodeURL.isEmpty())
 		{
@@ -64,14 +64,14 @@ public class TestBaseCase {
 	/**
 	 * 用枚举类型列出浏览器列表，用于设置浏览器类型的函数参数
 	 * @author zheng
-	 *
+	 * @param browsername
 	 */
-	private WebDriver setDriver(String browsername)
+	private WebDriver setDriver(int browsername)
 	{
 		switch (browsername)
 		{
 
-			case "FirefoxDriver" :
+			case 2 :
 				System.setProperty("webdriver.firefox.bin", "C:/Program Files (x86)/Mozilla Firefox/firefox.exe");
 				FirefoxProfile firefoxProfile=new FirefoxProfile();
 				//设置默认下载路径
@@ -85,18 +85,18 @@ public class TestBaseCase {
 				firefoxProfile.setPreference("extensions.firepath.allPagesActivation", "on");
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
-			case "ChormeDriver":
+			case 1:
 				System.setProperty("webdriver.chrome.driver", "resource\\chromedriver.exe");
 				this.driver=new ChromeDriver();
 				break;
-			case "InternetExplorerDriver":
+			case 3:
 				System.setProperty("webdriver.ie.driver", "resource\\IEDriverServer_Win32_2.48.0\\IEDriverServer.exe");
 				DesiredCapabilities dc = DesiredCapabilities.internetExplorer();
 				dc.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
 				dc.setCapability("ignoreProtectedModeSettings", true);
 				this.driver=new InternetExplorerDriver(dc);
 				break;
-			case "HtmlUnitDriver":
+			case 4:
 				this.driver=new HtmlUnitDriver();
 				break;
 			default:
@@ -108,12 +108,12 @@ public class TestBaseCase {
 
 
 
-	private WebDriver setRemoteDriver(String browsername,String nodeURL) throws MalformedURLException
+	private WebDriver setRemoteDriver(int browsername, String nodeURL) throws MalformedURLException
 	{
 		switch (browsername)
 		{
 
-			case "FirefoxDriver" :
+			case 2 :
 				System.setProperty("webdriver.firefox.bin", "C:/Program Files (x86)/Mozilla Firefox/firefox.exe");
 				FirefoxProfile firefoxProfile=new FirefoxProfile();
 				//设置默认下载路径
@@ -131,7 +131,7 @@ public class TestBaseCase {
 				//driver= new RemoteWebDriver(new URL("http://192.168.0.205:4455/wd/hub"), capabilities);
 				driver= new RemoteWebDriver(new URL(nodeURL), capabilities);
 				break;
-			case "ChormeDriver":
+			case 1:
 				System.setProperty("webdriver.chrome.driver", "E:\\autotest\\autotmaiton\\resource\\chromedriver.exe");
 				//driver=new ChromeDriver();
 				DesiredCapabilities dcchorme=DesiredCapabilities.chrome();
@@ -140,7 +140,7 @@ public class TestBaseCase {
 				dcchorme.setPlatform(Platform.WINDOWS);
 				driver=new RemoteWebDriver(new URL(nodeURL), dcchorme);
 				break;
-			case "InternetExplorerDriver-8":
+			case 3:
 				System.setProperty("webdriver.ie.driver", "E:\\autotest\\autotmaiton\\resource\\IEDriverServer_Win32_2.48.0\\IEDriverServer.exe");
 				DesiredCapabilities dc = DesiredCapabilities.internetExplorer();
 				dc.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
@@ -150,7 +150,7 @@ public class TestBaseCase {
 				dc.setPlatform(Platform.XP);
 				driver= new RemoteWebDriver(new URL(nodeURL), dc);
 				break;
-			case "InternetExplorerDriver-9":
+			case 4:
 				System.setProperty("webdriver.ie.driver", "E:\\autotest\\autotmaiton\\resource\\IEDriverServer_x64_2.48.0\\IEDriverServer.exe");
 				DesiredCapabilities dc2 = DesiredCapabilities.internetExplorer();
 				dc2.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS, true);
@@ -161,7 +161,7 @@ public class TestBaseCase {
 				driver= new RemoteWebDriver(new URL(nodeURL), dc2);
 				//driver=new InternetExplorerDriver(dc2);
 				break;
-			case "HtmlUnitDriver":
+			case 5:
 				this.driver=new HtmlUnitDriver();
 				break;
 			default:

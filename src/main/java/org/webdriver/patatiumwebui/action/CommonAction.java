@@ -28,7 +28,7 @@ import org.webdriver.patatiumwebui.utils.ElementAction;
 
 public class CommonAction extends TestBaseCase {
 
-	public static  void Login(String Url,String UserName,String PassWord) throws IOException
+	public static  void Login(String Url,String UserName,String PassWord) throws Exception
 	{
 		//此driver变量继承自TestBase变量
 		LoginPage loginPage=new LoginPage();
@@ -101,7 +101,7 @@ public class CommonAction extends TestBaseCase {
 	 */
 	public static void checkSelectFunctionForInput(Locator locatorForSelectInput,String selectForValue,
 												   Locator locatorForSelectButton,Locator locatorForResultTable,int rowForResultTable,int colForResult,
-												   Locator locatorForCountLocator,String database,String databaseTable,String databaseFiled ) throws IOException
+												   Locator locatorForCountLocator,String database,String databaseTable,String databaseFiled ) throws Exception
 	{
 		ElementAction action=new ElementAction();
 		action.clear(locatorForSelectInput);

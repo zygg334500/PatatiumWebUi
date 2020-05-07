@@ -10,7 +10,7 @@ import java.io.IOException;
  * Created by zhengshuheng on 2016/8/29 0029.
  */
 public class LoginAction extends TestBaseCase{
-    public LoginAction(String Url,String UserName,String PassWord) throws IOException
+    public LoginAction(String Url,String UserName,String PassWord) throws Exception
     {
         //此driver变量继承自TestBase变量
         LoginPage loginPage=new LoginPage();

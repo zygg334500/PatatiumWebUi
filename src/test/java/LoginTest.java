@@ -27,7 +27,7 @@ public class LoginTest extends TestBaseCase {
 	ElementAction action=new ElementAction();
 	@Test(description="登录成功测试")
 	@Parameters({"BaseUrl"})//读取testng.xml参数
-	public void login(String BaseUrl) throws IOException
+	public void login(String BaseUrl) throws Exception
 	{
 		//调用登录方法，输入正确的用户名和密码
 		LoginAction loginAction=new LoginAction(BaseUrl+"/new/login.aspx","111111","abc123");
@@ -47,7 +47,7 @@ public class LoginTest extends TestBaseCase {
 		return ExcelReadUtil.case_data_excel(0, 1, 4, 1, 3,filePath);
 	}
 	@Test(description="登录失败用例",dataProvider = "longinData")
-	public void loginFail (String userName,String password,String message) throws IOException, DocumentException {
+	public void loginFail (String userName,String password,String message) throws Exception {
 		//代替testng参数化的方法
 		String BaseUrl= XmlReadUtil.getTestngParametersValue("testng.xml","BaseUrl");
 		//调用登录方法

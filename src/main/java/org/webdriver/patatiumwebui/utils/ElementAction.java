@@ -702,8 +702,7 @@ public class ElementAction extends TestBaseCase{
 	 * 清除文本框内容
 	 * @param locator  元素locator
 	 */
-	public void clear(Locator locator)
-	{
+	public void clear(Locator locator) throws Exception {
 		try {
 			WebElement webElement=findElement(locator);
 			webElement.clear();
