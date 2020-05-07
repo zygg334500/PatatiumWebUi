@@ -111,8 +111,8 @@ public class TestReport implements IReporter{
 			} catch (DocumentException e) {
 				e.printStackTrace();
 			}
-			sb.append("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">");
-			sb.append("<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n");
+			//sb.append("<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN\" \"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">");
+			//sb.append("<html xmlns=\"http://www.w3.org/1999/xhtml\">\n<head>\n");
 			sb.append("<meta http-equiv=\"Content-Type\"content=\"text/html; charset=utf-8\" />\n");
 			sb.append("<title>" +
 					reportTitle +
@@ -575,7 +575,7 @@ public class TestReport implements IReporter{
 			sb.append("</table>\n</div>\n");
 			sb.append("</div>\n"
 					+"<span style=\"font-size:14px;margin-top:5px\" >温馨提示：点击按钮展开详情</span>"
-					+ "<div id=\"footer\" >技术支持：Copyright © 2014 Webdriver中文社区.Inc</div>");
+					+ "<div id=\"footer\" >Inc</div>");
 			sb.append("</body>\n</html>\n");
 			/*output.write(sb.toString());
 			output.flush();
@@ -851,7 +851,7 @@ public class TestReport implements IReporter{
 			//--跳过结果--end
 			sb2.append("</table>\n</div>\n");
 			sb2.append("</div>\n"
-					+ "<div id=\"footer\" style=\"font-size:14px\" >技术支持：Copyright © 2014 Webdriver中文社区.Inc</div>");
+					+ "<div id=\"footer\" style=\"font-size:14px\" >Inc</div>");
 			sb2.append("</body>\n</html>\n");
 			System.out.println("收件人地址："+Recipients);
 			SendMail sendMail=new SendMail();
@@ -948,6 +948,7 @@ public class TestReport implements IReporter{
 		}
 		String value=null;
 		SAXReader reader = new SAXReader();
+		reader.setValidation(false);
 		Document  document = reader.read(file);
 		Element root = document.getRootElement();
 		for (Iterator<?> i = root.elementIterator(); i.hasNext();)

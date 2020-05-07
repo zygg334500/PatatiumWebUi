@@ -56,8 +56,8 @@ public class TestBaseCase {
 
 	@AfterTest
 	public void tearDown() {
-		this.driver.close();
-		this.driver.quit();
+		//this.driver.close();
+		//this.driver.quit();
 		log.info("-------------结束测试，并关闭退出浏览器-------------");
 	}
 
@@ -86,7 +86,7 @@ public class TestBaseCase {
 				this.driver=new FirefoxDriver(firefoxProfile);
 				break;
 			case 1:
-				System.setProperty("webdriver.chrome.driver", "resource\\chromedriver.exe");
+				//System.setProperty("webdriver.chrome.driver", "Users/local/bin/chromedriver");
 				this.driver=new ChromeDriver();
 				break;
 			case 3:

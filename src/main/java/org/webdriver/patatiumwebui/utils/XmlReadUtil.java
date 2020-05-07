@@ -34,6 +34,7 @@ public class XmlReadUtil {
 				throw new IOException("Can't find " + path);
 			}
 			SAXReader reader = new SAXReader();
+			reader.setValidation(false);
 			Document document = reader.read(file);
 			Element root = document.getRootElement();
 			for (Iterator<?> i = root.elementIterator(); i.hasNext();)
@@ -94,6 +95,7 @@ public class XmlReadUtil {
 		try {
 			InputStreamReader inputStreamReader=new InputStreamReader(path,"UTF-8");
 			SAXReader reader = new SAXReader();
+			reader.setValidation(false);
 			Document document=reader.read(inputStreamReader);
 			Element root = document.getRootElement();
 			for (Iterator<?> i = root.elementIterator(); i.hasNext();)
@@ -177,6 +179,7 @@ public class XmlReadUtil {
 		try {
 			InputStreamReader inputStreamReader=new InputStreamReader(path,"UTF-8");
 			SAXReader reader = new SAXReader();
+			reader.setValidation(false);
 			Document document=reader.read(inputStreamReader);
 			System.out.println("文档内容"+document.asXML());
 			//获取xml文档的根节点
@@ -229,6 +232,8 @@ public class XmlReadUtil {
 			}
 			SAXReader saxReader=new SAXReader();
 			//读取xml文档
+			saxReader.setValidation(false);
+
 			Document document=saxReader.read(file);
 			//获取xml文档的根节点
 			Element rootElement=document.getRootElement();
@@ -275,6 +280,7 @@ public class XmlReadUtil {
 		}
 		String value=null;
 		SAXReader reader = new SAXReader();
+		reader.setValidation(false);
 		Document  document = reader.read(file);
 		Element root = document.getRootElement();
 		for (Iterator<?> i = root.elementIterator(); i.hasNext();)
