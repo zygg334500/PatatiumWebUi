@@ -88,4 +88,15 @@ public Locator 二次验证登陆() throws IOException
    Locator locator=getLocator("二次验证登陆");
    return locator;
  }
+
+/***
+* 点击同意提醒
+* @return
+* @throws IOException
+*/
+public Locator 同意提醒() throws IOException
+ {
+   Locator locator=getLocator("同意提醒");
+   return locator;
+ }
 }

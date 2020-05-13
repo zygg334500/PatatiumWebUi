@@ -14,7 +14,7 @@ public class LoginAction extends TestBaseCase{
     {
         //此driver变量继承自TestBase变量
         LoginPage loginPage=new LoginPage();
-        loginPage.open(Url);
+        loginPage.open(Url+"/login");
         System.out.println(driver.getCurrentUrl());
         ElementAction action=new ElementAction();
         action.click(loginPage.点击高级());
@@ -26,5 +26,9 @@ public class LoginAction extends TestBaseCase{
         action.click(loginPage.登录按钮());
         action.click(loginPage.点击确认());
         action.click(loginPage.二次验证登陆());
+//        loginPage.open(Url+"/trade/EOS3L_USDT");
+//        action.click(loginPage.同意提醒());
+
+
     }
 }
