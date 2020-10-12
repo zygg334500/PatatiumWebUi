@@ -13,24 +13,13 @@ private String path="src/main/java/org/webdriver/patatiumwebui/pageObjectConfig/
 getLocatorMap();
 }
 /***
-* 高级
+* 登录系统
 * @return
 * @throws IOException
 */
-public Locator 点击高级() throws IOException
+public Locator 登录系统() throws IOException
  {
-   Locator locator=getLocator("点击高级");
-   return locator;
- }
-
-/***
-* 点击继续前往
-* @return
-* @throws IOException
-*/
-public Locator 点击继续前往() throws IOException
- {
-   Locator locator=getLocator("点击继续前往");
+   Locator locator=getLocator("登录系统");
    return locator;
  }
 
@@ -68,35 +57,145 @@ public Locator 登录按钮() throws IOException
  }
 
 /***
-* 点击确认
+* 在线学习系统
 * @return
 * @throws IOException
 */
-public Locator 点击确认() throws IOException
+public Locator 在线学习系统() throws IOException
  {
-   Locator locator=getLocator("点击确认");
+   Locator locator=getLocator("在线学习系统");
    return locator;
  }
 
 /***
-* 二次验证登陆
+* 进入学习中心
 * @return
 * @throws IOException
 */
-public Locator 二次验证登陆() throws IOException
+public Locator 进入学习中心() throws IOException
  {
-   Locator locator=getLocator("二次验证登陆");
+   Locator locator=getLocator("进入学习中心");
    return locator;
  }
 
 /***
-* 点击同意提醒
+* 开始学习
 * @return
 * @throws IOException
 */
-public Locator 同意提醒() throws IOException
+public Locator 点击开始学习1() throws IOException
  {
-   Locator locator=getLocator("同意提醒");
+   Locator locator=getLocator("点击开始学习1");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习2() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习2");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习3() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习3");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习4() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习4");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习5() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习5");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习6() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习6");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习7() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习7");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习8() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习8");
+   return locator;
+ }
+
+/***
+* 开始学习
+* @return
+* @throws IOException
+*/
+public Locator 点击开始学习9() throws IOException
+ {
+   Locator locator=getLocator("点击开始学习9");
+   return locator;
+ }
+
+/***
+* 立即学习
+* @return
+* @throws IOException
+*/
+public Locator 点击立即学习() throws IOException
+ {
+   Locator locator=getLocator("点击立即学习");
+   return locator;
+ }
+
+/***
+* 开启flash
+* @return
+* @throws IOException
+*/
+public Locator 点击开启flash() throws IOException
+ {
+   Locator locator=getLocator("点击开启flash");
    return locator;
  }
 }

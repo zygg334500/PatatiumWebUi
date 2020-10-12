@@ -399,6 +399,6 @@ public class HttpRequestUtil {
     }
         public static void main(String[] args) throws HttpException, IOException, ParseException {
         String url = "http://47.97.215.193:8080";
-        System.out.println(send(url,"{\"id\":1515752473250,\"method\":\"order.cancel_all\",\"params\":[1002715, \"BTC3L_USDT\",0,1]}"));
+        System.out.println(send(url,"{\"id\":1515752473250,\"method\":\"order.cancel_all\",\"params\":[1002715, \"EOS2L_USDT\",0,0]}"));
     }
 }

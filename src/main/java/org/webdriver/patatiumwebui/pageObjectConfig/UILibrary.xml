@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <!--整个对象库文件的根目录，管理整个项目的对象-->
 <map>
     <!--管理一个页面的元素（webelement：input,select,textare,a,li等标签），一个page包含多个locator对象
@@ -14,14 +15,25 @@
         Value:元素定位信息，如果是id,name,class，linktext直接把网页元素对应的这些属性值写上即可，如果是xpath定位方式，
         需要填写正确的xpath语法格式。
         Desc:元素的描述，元素的中文描述信息-->
-		<locator type="xpath" timeout="3" value="//button[@id='details-button']"  desc="高级">点击高级</locator>
-		<locator type="xpath" timeout="3" value="//a[@id='proceed-link']"  desc="点击继续前往">点击继续前往</locator>
-
-		<locator type="xpath" timeout="3" value="//input[@id='email']"  desc="用户名">用户名输入框</locator>
-		<locator type="xpath" timeout="3" value="//input[@id='password']"  desc="密码">密码输入框</locator>
-		<locator type="id" timeout="3" value="loginSub"  desc="登录">登录按钮</locator>
-		<locator type="xpath" timeout="3" value="//a[@id='anti_phishing_verification_confirm']"  desc="点击确认">点击确认</locator>
-		<locator type="xpath" timeout="3" value="//input[@id='submit']"  desc="二次验证登陆">二次验证登陆</locator>
+		<locator type="xpath" timeout="3" value="(//button[contains(text(),'登录系统')])"  desc="登录系统">登录系统</locator>
+		<locator type="id" timeout="3" value="loginname"  desc="用户名">用户名输入框</locator>
+		<locator type="id" timeout="3" value="loginpwd"  desc="密码">密码输入框</locator>
+		<locator type="id" timeout="3" value="submit"  desc="登录">登录按钮</locator>
+		<locator type="xpath" timeout="3" value="(//div[contains(text(),'在线学习系统')])"  desc="在线学习系统">在线学习系统</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'学习中心')])"  desc="进入学习中心">进入学习中心</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[1]"  desc="开始学习">点击开始学习1</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[2]"  desc="开始学习">点击开始学习2</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[3]"  desc="开始学习">点击开始学习3</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[4]"  desc="开始学习">点击开始学习4</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[5]"  desc="开始学习">点击开始学习5</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[6]"  desc="开始学习">点击开始学习6</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[7]"  desc="开始学习">点击开始学习7</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[8]"  desc="开始学习">点击开始学习8</locator>
+		<locator type="xpath" timeout="3" value="(//a[contains(text(),'开始学习')])[9]"  desc="开始学习">点击开始学习9</locator>
+		<locator type="xpath" timeout="3" value="(//button[contains(text(),'立即学习')])"  desc="立即学习">点击立即学习</locator>
+		<locator type="xpath" timeout="3" value="(//cr-toggle[contains(@aria-label,'禁止网站运行')])"  desc="开启flash">点击开启flash</locator>
 
 	</page>
+
+
 </map>

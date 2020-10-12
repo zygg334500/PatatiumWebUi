@@ -14,9 +14,6 @@ public class AskRateAction extends TestBaseCase{
         LoginPage loginPage=new LoginPage();
         System.out.println(driver.getCurrentUrl());
         ElementAction action=new ElementAction();
-        loginPage.open(Url+"/trade/EOS3L_USDT");
-        action.click(loginPage.同意提醒());
-
-
+        loginPage.open(Url);
     }
 }
