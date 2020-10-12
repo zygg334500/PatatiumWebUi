@@ -1,0 +1,1319 @@
+[2020-08-15 10:07:43,544] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:07:43,548] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:07:55,708] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-08-15 10:07:55,743] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:07:55,753] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:18:33,083] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:18:33,111] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:22:02,299] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:22:02,320] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:23:48,366] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:23:48,371] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:23:57,172] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-08-15 10:23:57,368] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:23:57,393] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:30:42,545] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:30:42,549] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:30:46,591] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:30:47,323] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1/login网址!
+[2020-08-15 10:30:47,353] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:47,892] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:48,403] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:48,917] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:49,431] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:49,945] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:50,462] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:50,977] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:51,491] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:52,005] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:52,517] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:53,031] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:53,548] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:54,085] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:54,601] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:55,115] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:55,630] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:56,142] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:56,653] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:57,166] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:57,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:58,190] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:58,702] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:59,217] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:30:59,732] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:00,243] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:00,756] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:01,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:01,782] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:02,295] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:02,807] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:03,317] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:03,831] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:04,345] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:04,861] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:05,374] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:05,886] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:06,404] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:31:07,816] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 10:31:09,893] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 103107838.jpg
+[2020-08-15 10:31:09,894] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 103107838
+[2020-08-15 10:31:09,906] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:31:12,290] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 10:31:12,295] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 10:31:12,296] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:31:12,298] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:31:12,488] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1/trade/EOS3L_USDT网址!
+[2020-08-15 10:31:12,493] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 10:31:12,494] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:31:12,496] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:31:12,959] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 10:37:01,302] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:37:01,307] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:37:05,876] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:37:08,198] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1/login网址!
+[2020-08-15 10:37:08,257] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:08,825] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:09,340] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:09,856] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:10,371] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:10,884] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:11,403] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:11,915] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:12,430] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:12,945] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:13,460] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:13,974] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:14,489] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:15,007] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:37:15,528] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:38:55,437] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:38:55,441] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:38:59,561] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:39:00,562] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1/login网址!
+[2020-08-15 10:39:00,598] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:01,129] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:01,645] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:02,159] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:02,673] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:03,185] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:03,697] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:04,211] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:04,722] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:05,233] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:05,747] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:06,262] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:06,775] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:07,297] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:07,812] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:08,327] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:08,839] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:09,351] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:09,866] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:10,381] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:10,897] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:11,410] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:11,920] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:12,434] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:12,949] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:13,468] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:13,982] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:14,496] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:15,015] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:15,526] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:16,047] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:16,562] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:17,074] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:17,590] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:18,104] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:18,618] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:19,315] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:19,831] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:20,346] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:20,860] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:39:20,872] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 10:39:21,634] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 103920892.jpg
+[2020-08-15 10:39:21,635] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 103920892
+[2020-08-15 10:39:21,642] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:39:22,184] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 10:39:22,185] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 10:39:22,186] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:39:22,188] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:39:22,604] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 10:42:25,365] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:42:25,369] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:42:30,332] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:42:33,843] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1网址!
+[2020-08-15 10:42:33,878] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:34,421] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:34,933] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:35,446] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:35,960] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:36,476] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:36,988] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:37,503] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:38,018] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:38,532] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:39,049] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:39,562] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:40,079] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:40,601] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:41,115] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:41,631] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:42,144] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:42,665] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:43,182] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:43,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:44,560] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:45,088] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:45,620] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:46,135] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:46,649] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:47,164] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:47,684] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:48,198] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:48,710] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:49,225] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:49,738] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:50,255] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:50,766] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:51,281] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:51,795] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:52,309] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:52,825] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:53,338] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:53,851] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:54,362] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:loginname]
+[2020-08-15 10:42:54,459] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 10:42:55,673] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 104254799.jpg
+[2020-08-15 10:42:55,677] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 104254799
+[2020-08-15 10:42:55,687] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:42:56,430] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 10:42:56,435] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 10:42:56,436] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:42:56,438] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:42:56,840] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 10:45:23,079] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:45:23,086] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:45:27,523] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:45:30,030] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1网址!
+[2020-08-15 10:45:30,146] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:btnlogin]
+[2020-08-15 10:45:30,248] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登陆[By.id:btnlogin]成功！
+[2020-08-15 10:45:30,248] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:30,785] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:31,301] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:31,817] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:32,331] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:32,848] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:33,360] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:33,876] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:34,390] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:34,907] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:35,433] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:35,946] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:36,468] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:36,982] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:37,510] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:38,057] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:38,575] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:39,086] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:39,604] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:40,118] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:40,635] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:41,152] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:41,668] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:42,181] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:42,700] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:43,432] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:43,961] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:44,479] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:44,996] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:45,515] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:46,034] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:46,548] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:47,064] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:47,577] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:48,092] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:48,612] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:49,124] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:49,639] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:50,154] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:50,670] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:50,680] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 10:45:51,388] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 104550695.jpg
+[2020-08-15 10:45:51,390] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 104550695
+[2020-08-15 10:45:51,390] ERROR org.webdriver.patatiumwebui.utils.ElementAction 清除input值失败:个人登陆[By.xpath:(//li[contains(text(),'个人登陆')])]
+[2020-08-15 10:45:51,399] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:45:52,075] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 10:45:52,076] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 10:45:52,077] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:45:52,078] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:45:52,496] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 10:47:40,797] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:47:40,810] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:52:31,241] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 10:52:43,301] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:52:43,303] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:52:47,546] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:52:51,973] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1网址!
+[2020-08-15 10:52:52,057] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:btnlogin]
+[2020-08-15 10:52:52,142] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登陆[By.id:btnlogin]成功！
+[2020-08-15 10:52:52,142] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登录')])]
+[2020-08-15 10:52:52,205] ERROR org.webdriver.patatiumwebui.utils.ElementAction 清除input值失败:个人登陆[By.xpath:(//li[contains(text(),'个人登录')])]
+[2020-08-15 10:52:52,238] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 10:52:54,195] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 10:52:54,199] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 10:52:54,199] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:52:54,201] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:52:54,773] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 10:55:12,615] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 10:55:12,618] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 10:55:16,714] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 10:55:19,194] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问http://www.zjzwfw.gov.cn/zjservice/front/index/page.do?webId=1网址!
+[2020-08-15 10:55:19,233] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆方式[By.id:btnlogin]
+[2020-08-15 10:55:19,350] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登陆[By.id:btnlogin]成功！
+[2020-08-15 10:55:19,351] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：个人登陆方式[By.xpath:(//li[contains(text(),'个人登录')])]
+[2020-08-15 10:55:20,516] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：个人登陆[By.xpath:(//li[contains(text(),'个人登录')])]成功！
+[2020-08-15 10:55:20,517] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 10:55:20,784] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18668344552]
+[2020-08-15 10:55:20,785] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 10:55:20,898] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 10:55:20,899] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 10:55:21,069] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 10:55:41,078] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 10:55:41,078] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 10:55:41,085] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 10:55:41,795] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:06:46,550] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:08:46,399] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:09:10,009] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:09:10,014] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:09:14,194] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:09:16,535] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:09:16,565] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:17,092] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:17,605] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:18,117] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:18,633] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:19,146] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:19,658] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:20,170] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:20,683] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:21,199] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:21,714] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:22,231] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:22,747] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:23,269] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:23,785] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:24,300] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:24,816] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:25,330] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:25,845] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:26,373] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:26,885] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:27,400] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:27,914] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:28,432] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:09:29,006] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//xpath[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:25,475] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:10:36,395] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:10:36,400] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:10:40,165] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:10:43,056] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:10:43,084] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:43,624] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:44,136] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:44,650] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:45,165] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:45,677] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:46,192] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:46,704] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:47,229] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:47,744] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:48,258] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:48,772] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:49,288] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:49,802] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:50,317] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:50,832] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:51,348] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:51,864] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:52,379] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:52,893] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:53,407] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:53,923] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:54,439] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:54,955] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:55,474] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:55,990] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:56,509] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:57,027] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:57,548] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:58,074] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:58,589] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:59,103] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:10:59,624] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:00,139] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:00,654] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:01,167] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:01,692] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:02,211] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:02,728] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:03,242] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登陆系统方式[By.xpath:(//button[contains(text(),'登陆系统')])]
+[2020-08-15 11:11:03,252] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:11:04,669] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 111103399.jpg
+[2020-08-15 11:11:04,670] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 111103399
+[2020-08-15 11:11:04,680] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:11:05,522] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:11:05,526] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:11:05,527] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:11:05,530] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:11:06,316] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:11:37,827] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:11:59,549] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:11:59,552] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:12:03,091] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:12:06,528] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:12:06,556] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:12:07,748] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:12:07,748] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:12:08,025] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18668344552]
+[2020-08-15 11:12:08,028] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:12:08,142] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:12:08,142] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:12:08,232] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:12:28,248] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 11:12:28,249] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:12:28,251] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:12:28,652] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:17:37,984] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:18:47,337] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:18:47,341] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:18:51,904] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:18:55,247] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:18:55,275] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:18:56,350] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:18:56,351] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:18:56,585] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:18:56,586] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:18:56,711] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:18:56,712] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:18:56,823] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:18:56,823] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:18:57,350] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:18:58,830] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:18:59,343] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:18:59,856] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:00,373] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:00,885] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:01,399] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:01,914] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:02,430] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:02,943] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:03,458] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:03,968] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:04,483] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:04,996] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:05,514] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:06,031] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:06,549] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:07,069] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:07,583] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:08,099] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:08,613] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:09,230] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:09,745] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:10,264] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:10,779] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:11,294] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:11,809] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:12,323] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:12,835] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:13,353] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:13,872] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:14,387] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:14,899] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:15,414] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:15,929] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:16,441] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:16,956] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:login-btn2]
+[2020-08-15 11:19:16,974] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:19:18,180] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 111917126.jpg
+[2020-08-15 11:19:18,186] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 111917126
+[2020-08-15 11:19:18,195] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:19:18,913] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:19:18,915] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:19:18,915] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:19:18,917] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:19:19,363] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:21:21,828] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:21:43,278] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:21:43,292] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:21:47,430] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:21:51,091] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:21:51,116] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:21:52,299] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:21:52,300] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:21:52,513] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:21:52,514] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:21:52,630] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:21:52,630] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:21:52,737] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:21:52,737] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:21:53,266] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:21:54,493] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:22:14,502] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 11:22:14,503] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:22:14,505] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:22:14,874] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:42:07,806] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 11:43:33,741] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:43:33,747] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:43:38,692] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:43:40,332] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:43:40,376] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:43:41,431] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:43:41,432] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:43:41,670] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:43:41,671] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:43:41,822] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:43:41,822] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:43:41,942] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:43:41,943] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:43:42,475] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:43:43,505] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:43:43,505] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:44,052] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:44,564] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:45,077] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:45,594] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:46,110] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:46,625] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:47,140] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:47,652] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:48,166] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:48,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:49,194] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:49,710] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:50,222] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:50,739] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:51,257] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:51,769] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:52,282] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:52,798] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:53,315] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:53,833] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:54,352] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:54,869] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:55,385] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:55,900] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:56,412] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:56,926] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:57,441] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:57,956] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:58,468] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:58,979] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:43:59,495] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:00,010] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:00,524] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:01,044] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:01,555] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:02,073] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:02,588] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:03,106] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:03,621] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:44:03,632] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:44:04,678] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 114403647.jpg
+[2020-08-15 11:44:04,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 114403647
+[2020-08-15 11:44:04,686] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:44:05,523] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:44:05,526] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:44:05,526] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:44:05,529] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:44:05,986] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:44:35,842] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:44:35,844] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:44:40,156] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:44:42,368] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:44:42,403] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:44:43,311] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:44:43,311] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:44:43,557] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:44:43,557] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:44:43,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:44:43,679] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:44:43,784] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:44:43,784] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:44:44,312] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:44:45,569] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:44:45,570] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:46,112] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:46,629] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:47,147] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:47,664] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:48,181] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:48,698] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:49,212] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:49,727] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:50,240] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:50,753] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:51,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:51,784] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:52,299] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:52,812] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:53,323] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:53,838] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:54,354] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:54,870] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:55,383] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:55,910] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:56,422] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:56,934] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:57,448] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:57,973] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:58,488] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:59,004] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:44:59,519] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:00,032] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:00,550] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:01,063] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:01,577] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:02,260] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:02,799] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:03,315] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:03,835] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:04,353] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:04,870] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:05,387] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:05,902] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//div[contains(text(),'学习中心')])]
+[2020-08-15 11:45:05,956] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:45:06,471] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 114505974.jpg
+[2020-08-15 11:45:06,472] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 114505974
+[2020-08-15 11:45:06,486] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:45:07,079] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:45:07,081] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:45:07,082] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:45:07,086] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:45:07,546] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:46:05,596] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:46:05,603] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:46:09,804] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:46:12,289] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:46:12,313] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:46:13,275] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:46:13,275] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:46:13,739] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:46:13,740] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:46:13,899] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:46:13,900] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:46:14,051] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:46:14,052] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:46:14,579] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:46:15,924] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:46:15,924] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 11:46:16,250] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 11:46:16,250] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:46:16,512] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 11:46:16,513] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:17,040] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:17,554] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:18,070] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:18,581] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:19,093] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:19,605] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:20,121] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:20,638] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:21,151] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:21,700] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:22,213] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:22,728] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:23,243] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:23,755] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:24,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:24,795] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:25,309] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:25,824] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:26,338] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:26,858] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:27,382] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:27,893] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:28,415] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:28,943] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:29,456] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:29,971] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:30,491] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:31,008] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:31,523] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:32,038] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:32,552] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:33,068] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:33,586] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:34,099] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:34,614] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:35,136] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:35,650] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:36,164] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:36,678] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:46:36,688] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:46:37,786] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 114636916.jpg
+[2020-08-15 11:46:37,787] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 114636916
+[2020-08-15 11:46:37,798] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:46:38,425] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:46:38,427] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:46:38,428] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:46:38,431] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:46:38,817] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:52:55,568] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:52:55,575] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:52:59,705] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:53:01,343] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:53:01,370] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:53:02,487] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:53:02,488] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:53:02,854] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:53:02,855] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:53:02,967] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:53:02,967] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:53:03,086] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:53:03,087] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:53:03,627] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:53:04,851] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:53:04,852] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 11:53:05,210] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 11:53:05,210] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:53:05,502] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 11:53:05,503] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:06,038] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:06,555] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:07,068] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:07,583] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:08,096] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:08,610] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:09,130] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:09,644] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:10,158] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:10,672] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:11,186] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:11,701] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:12,214] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:12,737] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:13,250] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:13,776] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:14,291] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:14,806] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:15,321] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:15,835] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:16,347] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:16,861] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:17,375] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:17,894] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:18,411] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:18,923] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:19,437] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:20,121] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:20,639] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:21,155] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:21,672] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:22,192] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:22,711] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:23,233] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:23,782] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:24,296] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:24,809] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:25,324] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:25,856] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//a[contains(text(),'立即学习')])]
+[2020-08-15 11:53:26,050] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 11:53:26,869] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 115326285.jpg
+[2020-08-15 11:53:26,871] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 115326285
+[2020-08-15 11:53:26,882] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 11:53:27,513] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 11:53:27,516] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 11:53:27,516] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:53:27,520] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:53:27,923] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 11:53:45,227] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 11:53:45,230] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 11:53:49,219] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 11:53:51,398] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 11:53:51,427] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 11:53:52,312] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 11:53:52,312] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 11:53:52,629] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 11:53:52,630] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 11:53:52,718] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 11:53:52,718] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 11:53:52,827] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 11:53:52,828] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:53:53,358] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 11:53:54,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 11:53:54,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 11:53:55,007] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 11:53:55,010] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 11:53:55,280] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 11:53:55,280] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//button[contains(text(),'立即学习')])]
+[2020-08-15 11:53:55,687] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击立即学习[By.xpath:(//button[contains(text(),'立即学习')])]成功！
+[2020-08-15 11:54:15,706] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 11:54:15,706] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 11:54:15,708] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 11:54:16,115] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:11:10,909] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:11:10,916] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:11:15,314] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:11:16,796] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:11:16,831] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:11:17,979] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:11:17,979] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:11:18,280] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:11:18,280] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:11:18,397] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:11:18,398] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:11:18,523] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:11:18,524] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:11:19,050] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:11:20,460] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:11:20,461] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:11:20,833] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:11:20,833] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:11:21,157] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:11:21,158] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//button[contains(text(),'立即学习')])]
+[2020-08-15 12:11:21,567] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击立即学习[By.xpath:(//button[contains(text(),'立即学习')])]成功！
+[2020-08-15 12:11:23,151] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:11:43,169] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 12:11:43,169] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:11:43,172] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:11:43,766] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:19:13,228] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:19:13,233] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:19:17,361] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:19:19,911] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:19:19,948] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:19:21,742] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:19:21,742] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:19:21,986] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:19:21,986] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:19:22,103] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:19:22,104] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:19:22,248] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:19:22,248] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:19:22,773] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:19:24,571] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:19:24,571] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:19:24,944] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:19:24,945] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:19:25,314] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:19:25,315] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//button[contains(text(),'立即学习')])]
+[2020-08-15 12:19:25,776] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击立即学习[By.xpath:(//button[contains(text(),'立即学习')])]成功！
+[2020-08-15 12:19:27,923] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:19:28,060] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:19:29,344] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:19:29,348] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:19:29,350] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:19:29,352] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:19:30,028] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:20:33,218] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:20:33,224] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:20:37,836] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:20:39,786] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:20:39,816] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:20:41,250] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:20:41,250] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:20:41,519] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:20:41,520] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:20:41,644] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:20:41,644] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:20:41,770] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:20:41,771] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:20:42,322] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:20:43,593] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:20:43,593] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:20:44,016] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:20:44,017] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:20:44,347] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:20:44,347] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//button[contains(text(),'立即学习')])]
+[2020-08-15 12:20:44,803] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击立即学习[By.xpath:(//button[contains(text(),'立即学习')])]成功！
+[2020-08-15 12:20:44,956] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:20:46,498] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:20:46,505] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:20:46,506] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:20:46,508] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:20:47,094] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:21:32,657] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:21:32,660] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:21:37,248] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:21:40,251] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:21:40,288] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:21:41,732] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:21:41,733] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:21:41,991] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:21:41,991] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:21:42,135] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:21:42,135] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:21:42,230] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:21:42,231] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:21:42,759] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:21:44,288] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:21:44,289] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:21:44,641] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:21:44,642] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:21:44,940] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:21:44,941] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击立即学习方式[By.xpath:(//button[contains(text(),'立即学习')])]
+[2020-08-15 12:21:45,387] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击立即学习[By.xpath:(//button[contains(text(),'立即学习')])]成功！
+[2020-08-15 12:21:47,861] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:22:07,869] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--passed
+[2020-08-15 12:22:07,873] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:22:07,883] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:22:08,640] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:24:30,541] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 12:28:55,381] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:28:55,385] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:29:00,495] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:29:02,655] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:29:02,698] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:29:04,155] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:29:04,156] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:29:04,409] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:29:04,410] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:29:04,567] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:29:04,567] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:29:04,703] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:29:04,704] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:29:05,235] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:29:06,649] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:29:06,650] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:29:07,015] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:29:07,016] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:29:07,354] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:29:08,929] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:29:08,929] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:09,520] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:10,062] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:10,583] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:11,098] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:11,609] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:12,137] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:12,657] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:13,175] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:13,691] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:14,206] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:14,722] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:15,239] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:15,757] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:16,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:16,785] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:17,310] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:17,899] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:18,441] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:18,959] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:19,476] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:19,996] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:20,516] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:21,038] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:21,556] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:22,069] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:22,583] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:23,098] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:23,617] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:24,134] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:24,657] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:25,184] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:25,700] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:26,214] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:26,728] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:27,246] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:27,764] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:28,278] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:28,882] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:29,396] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:bar]
+[2020-08-15 12:29:29,407] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 12:29:29,963] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 122929416.jpg
+[2020-08-15 12:29:29,964] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 122929416
+[2020-08-15 12:29:29,979] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:29:30,435] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:29:30,439] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:29:30,440] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:29:30,442] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:29:30,918] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:31:25,285] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 12:31:40,609] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:31:40,612] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:31:45,944] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:31:59,187] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:31:59,220] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:32:00,803] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:32:00,804] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:32:01,058] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:32:01,059] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:32:01,207] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:32:01,207] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:32:01,373] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:32:01,374] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:32:01,900] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:32:03,276] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:32:03,276] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:32:03,599] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:32:03,600] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:32:03,906] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:32:05,962] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:32:05,962] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:06,491] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:07,149] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:07,676] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:08,192] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:08,707] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:09,232] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:09,751] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:10,270] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:10,787] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:11,308] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:11,831] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:12,349] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:12,868] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:13,385] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:13,902] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:14,423] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:14,937] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:15,452] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:15,971] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:16,487] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:17,004] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:17,522] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:18,041] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:18,562] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:19,083] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:19,602] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:20,118] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:20,633] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:21,172] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:21,693] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:22,209] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:22,733] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:23,252] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:23,769] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:24,286] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:24,802] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:25,319] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:25,837] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:26,350] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:ink]
+[2020-08-15 12:32:26,362] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 12:32:27,441] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 123226582.jpg
+[2020-08-15 12:32:27,443] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 123226582
+[2020-08-15 12:32:27,467] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:32:28,099] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:32:28,102] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:32:28,102] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:32:28,105] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:32:28,682] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:33:36,534] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:33:36,538] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:33:41,579] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:33:50,768] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:33:50,799] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:33:52,434] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:33:52,435] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:33:52,728] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:33:52,729] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:33:52,841] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:33:52,842] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:33:52,966] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:33:52,966] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:33:53,529] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:33:54,913] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:33:54,914] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:33:55,380] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:33:55,383] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:33:55,749] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:33:57,865] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:33:57,865] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:33:58,389] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:33:59,067] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:33:59,590] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:00,108] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:00,626] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:01,148] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:01,668] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:02,188] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:02,716] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:03,236] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:03,752] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:04,271] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:04,789] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:05,303] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:05,827] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:06,343] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:06,860] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:07,378] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:07,895] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:08,415] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:08,935] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:09,451] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:09,970] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:10,496] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:11,020] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:11,567] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:12,087] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:12,605] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:13,127] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:13,642] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:14,157] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:14,677] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:15,193] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:15,714] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:16,240] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:16,759] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:17,274] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:17,792] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:18,314] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.id:knob]
+[2020-08-15 12:34:18,330] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 12:34:19,775] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 123418350.jpg
+[2020-08-15 12:34:19,776] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 123418350
+[2020-08-15 12:34:19,797] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:34:20,529] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:34:20,531] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:34:20,532] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:34:20,546] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:34:20,953] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 12:54:11,860] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 12:54:29,138] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 12:54:29,142] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 12:54:35,239] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 12:54:37,948] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 12:54:37,987] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 12:54:39,741] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 12:54:39,744] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 12:54:40,183] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 12:54:40,183] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 12:54:40,312] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 12:54:40,314] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 12:54:40,435] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 12:54:40,436] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:54:41,027] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 12:54:42,537] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 12:54:42,538] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 12:54:42,950] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 12:54:42,950] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 12:54:44,589] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 12:54:46,595] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 12:54:46,595] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:47,150] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:47,715] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:48,322] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:48,840] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:49,363] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:49,919] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:50,440] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:50,959] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:51,480] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:52,000] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:52,532] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:53,050] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:53,567] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:54,088] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:54,616] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:55,134] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:55,662] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:56,184] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:56,702] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:57,220] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:57,738] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:58,261] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:58,777] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:59,295] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:54:59,813] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:00,335] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:00,857] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:01,376] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:01,897] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:02,491] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:03,120] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:03,644] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:04,165] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:04,698] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:05,212] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:05,733] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:06,254] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:06,773] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//div[contains(text(),'禁止网站运行 Flash')])]
+[2020-08-15 12:55:06,787] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 12:55:08,277] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 125506936.jpg
+[2020-08-15 12:55:08,278] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 125506936
+[2020-08-15 12:55:08,286] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 12:55:09,351] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 12:55:09,353] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 12:55:09,354] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 12:55:09,356] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 12:55:09,759] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 13:00:53,319] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 13:00:53,324] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 13:01:11,312] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 13:02:04,523] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 13:02:04,525] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 13:02:12,090] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-08-15 13:02:12,146] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 13:02:12,211] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 13:03:04,446] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 13:03:04,451] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 13:03:09,610] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 13:03:12,725] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 13:03:12,768] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 13:03:13,906] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 13:03:13,906] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 13:03:14,309] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 13:03:14,310] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 13:03:14,418] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 13:03:14,418] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 13:03:14,542] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 13:03:14,542] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 13:03:15,078] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 13:03:16,156] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 13:03:16,157] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 13:03:16,521] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 13:03:16,521] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 13:03:17,693] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 13:03:19,201] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 13:03:19,201] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:19,737] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:20,289] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:20,805] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:21,318] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:21,830] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:22,342] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:22,856] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:23,371] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:23,883] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:24,398] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:24,913] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:25,427] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:25,948] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:26,475] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:26,990] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:27,507] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:28,022] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:28,534] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:29,073] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:29,590] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:30,104] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:30,621] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:31,150] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:31,665] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:32,185] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:32,701] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:33,216] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:33,740] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:34,258] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:34,774] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:35,288] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:35,803] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:36,321] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:36,841] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:37,355] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:37,884] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:38,406] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:38,940] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:39,455] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行 Flash（推荐）')])]
+[2020-08-15 13:03:39,466] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 13:03:40,693] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 130339486.jpg
+[2020-08-15 13:03:40,694] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 130339486
+[2020-08-15 13:03:40,703] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 13:03:41,541] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 13:03:41,543] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 13:03:41,543] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 13:03:41,545] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 13:03:41,968] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
+[2020-08-15 13:05:20,629] INFO  org.webdriver.patatiumwebui.pageObjectConfig.PageObjectAutoCode 自动生成对象库java代码成功
+[2020-08-15 13:05:33,607] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-08-15 13:05:33,611] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-08-15 13:05:37,609] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-08-15 13:05:39,902] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-08-15 13:05:39,936] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-08-15 13:05:40,869] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-08-15 13:05:40,870] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-08-15 13:05:41,223] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-08-15 13:05:41,224] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-08-15 13:05:41,347] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-08-15 13:05:41,347] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-08-15 13:05:41,441] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-08-15 13:05:41,442] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 13:05:41,973] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-08-15 13:05:43,103] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：在线学习系统[By.xpath:(//div[contains(text(),'在线学习系统')])]成功！
+[2020-08-15 13:05:43,103] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：进入学习中心方式[By.xpath:(//a[contains(text(),'学习中心')])]
+[2020-08-15 13:05:43,449] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：进入学习中心[By.xpath:(//a[contains(text(),'学习中心')])]成功！
+[2020-08-15 13:05:43,451] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开始学习1方式[By.xpath:(//a[contains(text(),'开始学习')])[1]]
+[2020-08-15 13:05:44,861] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：点击开始学习1[By.xpath:(//a[contains(text(),'开始学习')])[1]]成功！
+[2020-08-15 13:05:46,243] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问chrome://settings/content/flash?search=flash网址!
+[2020-08-15 13:05:46,243] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:46,825] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:47,468] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:47,986] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:48,502] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:49,016] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:49,530] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:50,045] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:50,560] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:51,073] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:51,584] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:52,096] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:52,609] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:53,123] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:53,637] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:54,153] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:54,670] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:55,184] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:55,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:56,208] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:56,720] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:57,234] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:57,748] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:58,268] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:58,780] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:59,293] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:05:59,808] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:00,325] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:00,840] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:01,355] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:01,872] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:02,387] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:02,902] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:03,486] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:04,462] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:04,976] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:05,491] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:06,004] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:06,582] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：点击开启flash方式[By.xpath:(//cr-toggle[contains(@aria-label,'禁止网站运行')])]
+[2020-08-15 13:06:06,594] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-08-15 13:06:07,292] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-08-15 130606818.jpg
+[2020-08-15 13:06:07,294] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-08-15 130606818
+[2020-08-15 13:06:07,310] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-08-15 13:06:07,847] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-08-15 13:06:07,850] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-08-15 13:06:07,850] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-08-15 13:06:07,853] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-08-15 13:06:08,472] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！

@@ -3,8 +3,8 @@
 	<parameter name="driver" value="1" /> <!--测试浏览器：支持火狐，谷歌，IE 谷歌1，火狐2-->
 	<parameter name="nodeURL" value="" /> <!--selenium grid分布式运行node节点url，如不用分布式运行，则留空-->
 	<parameter name="BaseUrl" value="https://pro.learning.gov.cn" />  <!-- 测试系统基础Url-->
-	<parameter name="UserName" value="18268344552" /> <!-- 系统登录用户名-->
-	<parameter name="PassWord" value="900612!!" />  <!-- 系统登录密码-->
+	<parameter name="UserName" value="" /> <!-- 系统登录用户名-->
+	<parameter name="PassWord" value="" />  <!-- 系统登录密码-->
     <parameter name="smtpUserName" value="1595088406@qq.com" />  <!-- 测试报告邮件发送：smtp身份证验证-->
     <parameter name="smtpPassWord" value="" />  <!-- 测试报告邮件发送：smtp身份证验证-->
     <parameter name="smtpHost" value="smtp.qq.com" />  <!-- 测试报告邮件发送：smtp主机地址-->

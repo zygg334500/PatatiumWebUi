@@ -97,9 +97,9 @@ $(this).parent().parent().find("div").hide();
 <div id="report_title">
 <div id="logo"><img src="logo1.png"></img></div>
 <div style="clear:both"><div id="time">
-<div style="pading-top:20px">开始时间：2020-05-07 15:41:12</div>
-<div>结束时间：2020-05-07 15:41:48 </div>
-<div>用&nbsp&nbsp&nbsp&nbsp时：36秒3毫秒</div>
+<div style="pading-top:20px">开始时间：2020-10-12 11:15:39</div>
+<div>结束时间：2020-10-12 11:16:04 </div>
+<div>用&nbsp&nbsp&nbsp&nbsp时：24秒640毫秒</div>
 </div>
 </div>
 </div><div  id="header_right" >
@@ -119,10 +119,10 @@ $(this).parent().parent().find("div").hide();
 </tr>
  <tr>
 <td><div align="center"><button id="total_num">1</button></div></td>
-<td><div align="center"><button id="passed_num"value="1">1</button></div></td>
- <td><div align="center"><button id="failed_num"value="0">0</button></div></td>
+<td><div align="center"><button id="passed_num"value="0">0</button></div></td>
+ <td><div align="center"><button id="failed_num"value="1">1</button></div></td>
 <td><div align="center"><button id="skiped_num"value="0">0</button></div></td>
-<td><div align="center">100.00%</div></td>
+<td><div align="center">0.00%</div></td>
 </tr>
 </table>
 <script type="text/javascript">
@@ -156,15 +156,15 @@ var myPie = new Chart(document.getElementById("canvas").getContext("2d")).Pie(pi
 <td width="10%" class="case_time">耗时</td>
 </tr>
 
-<tr id="LoginTest.login.1588837308331">
+<tr id="LoginTest.login.1602472564327">
 <td class="SEQ">1</td><td class="case_funtcion_td">登录成功测试用例</td>
 <td class="case_name_td">登录成功测试</td>
- <td class="case_result_td"><button class="passed_button" id="fullresult_login">p</button><br />
+ <td class="case_result_td"><button class="failed_button" id="fullresult_login">f</button><br />
 </td>
 <td  class="case_result_info_td"><span class="full_info" id="fullresult_login_info" style="display:none" >检查点：<br />
 </span><div class="full_info_div"></div></td>
-<td class="case_result_beizhu_td">输入数据：https://f.gatecha.in:1443/login</td>
-<td class="case_time_td">36秒3毫秒</td>
+<td class="case_result_beizhu_td">输入数据：https://pro.learning.gov.cn</td>
+<td class="case_time_td">24秒640毫秒</td>
 <td colspan="3" style="display:none"></td>
 </tr>
 
@@ -196,18 +196,6 @@ var myPie = new Chart(document.getElementById("canvas").getContext("2d")).Pie(pi
 <td width="10%" class="case_time">耗时</td>
 <tr>
 
-<tr id="LoginTest.login.1588837308331">
-<td class="SEQ">1</td><td class="case_funtcion_td">登录成功测试用例</td>
-<td class="case_name_td">登录成功测试</td>
- <td class="case_result_td"><button class="passed_button" id="passedresult_login">p</button><br /></td>
-<td  class="case_result_info_td"><span class="passed_info" id="passedresult_login_info" style="display:none" >检查点：<br />
-</span>
-<div class="passed_info_div"></div></td>
-<td class="case_result_beizhu_td">输入数据：https://f.gatecha.in:1443/login</td>
-<td class="case_time_td">36秒3毫秒</td>
-<td colspan="3" style="display:none"></td>
-</tr>
-
 </table>
 <table  id="failed">
 <tr>
@@ -219,6 +207,17 @@ var myPie = new Chart(document.getElementById("canvas").getContext("2d")).Pie(pi
 <td width="43%" colspan=2 align="left">测试结果</td>
 <td width="20%" class="case_result_beizhu_td">备注</td>
 <td width="10%" class="case_time">耗时</td>
+</tr>
+
+<tr id="LoginTest.login.1602472564327">
+<td class="SEQ">1</td><td class="case_funtcion_td">登录成功测试用例</td>
+<td class="case_name_td">登录成功测试</td>
+ <td class="case_result_td" ><button class="failed_button" id="failedresult_login">f</button><br /></td>
+<td  class="case_result_info_td"><span class="failed_info" id="failedresult_login_info" style="display:none" >检查点：<br />
+</span><div class="failed_info_div"></div></td>
+<td class="case_result_beizhu_td">输入数据：https://pro.learning.gov.cn</td>
+<td class="case_time_td">24秒640毫秒</td>
+<td colspan="3" style="display:none"></td>
 </tr>
 </table>
 </div>

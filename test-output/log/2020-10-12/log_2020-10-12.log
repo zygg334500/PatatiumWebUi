@@ -1,0 +1,81 @@
+[2020-10-12 11:06:27,866] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-10-12 11:06:27,868] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-10-12 11:06:48,359] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-10-12 11:06:48,388] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-10-12 11:06:48,393] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-10-12 11:13:39,004] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-10-12 11:13:39,006] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-10-12 11:13:59,402] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-10-12 11:13:59,422] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-10-12 11:13:59,437] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-10-12 11:14:55,685] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-10-12 11:14:55,687] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-10-12 11:15:16,092] ERROR org.webdriver.patatiumwebui.utils.TestBaseCase 没有成功浏览器环境配置错误
+[2020-10-12 11:15:16,112] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-10-12 11:15:16,130] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-10-12 11:15:37,164] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase ------------------开始执行测试---------------
+[2020-10-12 11:15:37,165] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase 读取testng.xml配置的1浏览器并将其初始化
+
+[2020-10-12 11:15:39,702] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---start
+[2020-10-12 11:15:40,401] INFO  org.webdriver.patatiumwebui.pageObject.LoginPage 打开浏览器，访问https://pro.learning.gov.cn网址!
+[2020-10-12 11:15:40,414] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录系统方式[By.xpath:(//button[contains(text(),'登录系统')])]
+[2020-10-12 11:15:42,415] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录系统[By.xpath:(//button[contains(text(),'登录系统')])]成功！
+[2020-10-12 11:15:42,415] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：用户名输入框方式[By.id:loginname]
+[2020-10-12 11:15:42,559] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：用户名输入框[By.id:loginnamevalue:18268344552]
+[2020-10-12 11:15:42,559] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：密码输入框方式[By.id:loginpwd]
+[2020-10-12 11:15:42,617] INFO  org.webdriver.patatiumwebui.utils.ElementAction input输入：密码输入框[By.id:loginpwdvalue:900612!!]
+[2020-10-12 11:15:42,617] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：登录按钮方式[By.id:submit]
+[2020-10-12 11:15:42,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction click元素：登录按钮[By.id:submit]成功！
+[2020-10-12 11:15:42,696] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:43,210] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:43,724] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:44,237] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:44,751] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:45,261] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:45,772] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:46,286] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:46,796] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:47,310] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:47,823] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:48,337] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:48,848] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:49,362] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:49,872] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:50,381] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:50,891] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:51,401] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:51,912] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:52,422] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:52,931] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:53,444] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:53,958] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:54,470] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:54,983] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:55,493] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:56,006] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:56,518] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:57,030] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:57,541] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:58,054] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:58,566] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:59,078] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:15:59,589] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:00,101] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:00,614] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:01,126] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:01,639] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:02,151] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:02,665] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:03,179] INFO  org.webdriver.patatiumwebui.utils.ElementAction 查找元素：在线学习系统方式[By.xpath:(//div[contains(text(),'在线学习系统')])]
+[2020-10-12 11:16:03,188] INFO  org.webdriver.patatiumwebui.utils.ElementAction 超时无法定位页面元素
+[2020-10-12 11:16:04,326] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\2020-10-12 111603194.jpg
+[2020-10-12 11:16:04,327] INFO  org.webdriver.patatiumwebui.utils.ElementAction 2020-10-12 111603194
+[2020-10-12 11:16:04,332] ERROR org.webdriver.patatiumwebui.utils.TestListener 0
+[2020-10-12 11:16:05,311] ERROR org.webdriver.patatiumwebui.utils.ScreenShot 错误截图：/Users/chenziyang/IdeaProjects/PatatiumWebUi/test-output\snapshot\登录成功测试0.jpg
+[2020-10-12 11:16:05,312] ERROR org.webdriver.patatiumwebui.utils.TestListener 测试用例: 登录成功测试--failed
+[2020-10-12 11:16:05,312] INFO  org.webdriver.patatiumwebui.utils.TestListener 测试用例:登录成功测试---end
+[2020-10-12 11:16:05,313] INFO  org.webdriver.patatiumwebui.utils.TestBaseCase -------------结束测试，并关闭退出浏览器-------------
+[2020-10-12 11:16:05,589] ERROR org.webdriver.patatiumwebui.utils.SendMail 发送邮件失败！
